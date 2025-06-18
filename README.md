@@ -1,4 +1,4 @@
-# 📚 StudyBuddy AI – Personalized Learning Assistant
+# 📚 StudyBuddy AI – Personalized Learning Assistant (In Progress)
 
 StudyBuddy AI is an intelligent study assistant that helps students convert their notes, textbooks, or handwritten content into **adaptive quizzes**, **flashcards**, and a **custom study schedule** based on their strengths and weaknesses.
 
